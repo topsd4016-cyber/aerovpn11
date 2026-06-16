@@ -3,3 +3,4 @@
 #profile-update-interval: 1
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@82.202.157.193:443?security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&sid=fbc7b5b2&flow=xtls-rprx-vision&type=tcp&encryption=none#🇷🇺 Москва %232 | Vless
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@50.7.244.149:443?security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=9NU2obsPoqhJuA9_48WdG0rwEXfSRkN_a12LZOnckXM&sid=a1f8c325&flow=xtls-rprx-vision&type=tcp&encryption=none#🇫🇷 Париж %231 | Vless
+vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@50.7.177.61:443?security=reality&sni=x5.ru&fp=firefox&pbk=U87mQuVhBb6HJ6E04v_7Lr6w5VXoF8mCQ_kQufWyLHA&sid=5f7c7823&flow=xtls-rprx-vision&type=tcp&encryption=none#🇳🇱%20Амстердам%20%231%20%7C%20Vless
