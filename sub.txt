@@ -1,6 +1,7 @@
 #profile-title: 🏳️ VPN
 #announce: Совет: если не работает впн обновите подписку
 #profile-update-interval: 1
+vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@wl6.alertyagency.com:8443?encryption=none&security=tls&sni=wl6.alertyagency.com&fp=firefox&alpn=h2&type=grpc&serviceName=grpc#🏳️%20Мобильный%20интернет%20%236%20%7C%20Grpc
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@152.233.43.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY&sid=7db44191&type=tcp&headerType=none#🇵🇱 Варшава #1 | Vless
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@79.127.215.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=5isIe0GLddqsEuDcnLop5Ex3q4Ibg_AKpogxAvhLMWs&sid=4501f602&type=tcp&headerType=none#🇫🇷 Париж #2 | Vless
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@31.77.168.88:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=WG9GHnQD2BLNFeCpvE-1lH6Xb9WX0VVITAN0d1SWvEI&sid=2a1250d7&type=tcp&headerType=none#🇩🇪 Франкфурт #1 | Vless
