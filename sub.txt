@@ -1,7 +1,7 @@
 #profile-title: 🏳️ VPN
 #announce: Совет: если не работает впн обновите подписку
 #profile-update-interval: 1
-vless://c76b03fd-7ecb-4515-912f-8206fed181e9@107.189.26.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.dodostatic.net&fp=qq&pbk=F3XkvPrGmCOrJpNhpPqkVHrZ58YA0Z8VCp6y7s6We2U&sid=c09a8eae8476d36c&spx=%2F#%F0%9F%87%AA%F0%9F%87%BA%20%D0%91%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80
+vless://c76b03fd-7ecb-4515-912f-8206fed181e9@107.189.26.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.dodostatic.net&fp=qq&pbk=F3XkvPrGmCOrJpNhpPqkVHrZ58YA0Z8VCp6y7s6We2U&sid=c09a8eae8476d36c&spx=%2F#🇳🇱 Нидерланды Рабочий
 vless://2a5fa0b6-a46e-4281-9b0c-027004cacf64@wl6.alertyagency.com:8443?encryption=none&security=tls&sni=wl6.alertyagency.com&fp=firefox&alpn=h2&type=grpc&serviceName=grpc#🏳️%20Мобильный%20интернет%20%236%20%7C%20Grpc
 vless://8b24ef40-b6a5-4048-82e6-12bd7bed3db6@31.177.111.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=IzFgGhHuRt6C42-JLmSFAac4S6_uhc6a9RdEBXhiZmA&sid=fb7bcadf992e2411&spx=%2F&type=tcp#🇫🇲%20ОБХОД%20№3-3
 vless://8b24ef40-b6a5-4048-82e6-12bd7bed3db6@51.250.83.32:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=firefox&pbk=lM4aY7R07Gem9x-TKqvCuKcZSLuZU-_2lyZqxmQLHDs&sid=a9e95077bdf34209&spx=%2F#BYPASS-1%20(vk)
